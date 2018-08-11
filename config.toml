@@ -2,6 +2,7 @@ baseURL = "https://daniellam.com/"
 languageCode = "en-us"
 title = "Daniel Lam"
 theme = "seminyak"
+googleAnalytics = "UA-47083218-1"
 
 [params]
   theme_color = "#fcfbeb"
