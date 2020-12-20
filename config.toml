@@ -52,6 +52,3 @@ weight = 1
   [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/aramadia"
-  [[params.social]]
-    name = "instagram"
-    link = "https://www.instagram.com/aramadia/"
